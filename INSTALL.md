@@ -78,7 +78,7 @@ Aqui estão alguns exemplos de como testar os endpoints:
     -   **Método**: `GET`
     -   **URL**: `http://localhost:3000/parking/AAA-1234`
 
-    -   **Obter Histórico do Estacionamento**
+-   **Obter Histórico do Estacionamento**
     -   **Método**: `GET`
     -   **URL**: `http://localhost:3000/parking`
 
